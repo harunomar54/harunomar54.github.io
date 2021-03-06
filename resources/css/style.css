@@ -1,0 +1,64 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.excursion {
+    color: aquamarine;
+    text-align: center;
+    font-size: 16px;
+}
+
+.travel {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
+
+}
+
+.subheading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    text-align: center;
+    color: gray;
+
+}
+
+.video {
+    text-align: center;
+    object-fit: contain;
+}
+
+.phone {
+    text-align: center;
+}
+
+.camp {
+    text-align: center;
+}
+
+.coming {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
+
+}
+
+
+
+.footer {
+    text-align: right;
+    color: gray;
+}
